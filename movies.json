@@ -1,0 +1,58 @@
+[
+
+  {
+    "imdbId": "MV1",
+    "title": "Avatar: The Way of Water",
+    "releaseDate": "2022-12-16",
+    "trailerLink": "https://www.youtube.com/watch?v=d9MyW72ELq0",
+    "genres": ["Fantasy", "Drama", "Family", "Actions"],
+    "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "reviews": [],
+    "actors": [],
+    "qualifications": []
+  },
+  {
+    "imdbId": "MV2",
+    "title": "Pasión de Gavilanes",
+    "releaseDate": "2007-11-25",
+    "trailerLink": "https://www.youtube.com/watch?v=lroAhsDr2vI",
+    "genres": ["Fantasy", "Drama", "Family", "Actions"],
+    "poster": "https://image.tmdb.org/t/p/w500/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",
+    "reviews": [],
+    "actors": [],
+    "qualifications": []
+  },
+  {
+    "imdbId": "MV3",
+    "title": "Black Panther: Wakanda Forever",
+    "releaseDate": "2022-11-11",
+    "trailerLink": "https://www.youtube.com/watch?v=_Z3QKkl1WyM",
+    "genres": ["Fantasy", "Drama", "Family", "Actions"],
+    "poster": "https://image.tmdb.org/t/p/w500/cryEN3sWlgB2wTzcUNVtDGI8bkM.jpg",
+    "reviews": [],
+    "actors": [],
+    "qualifications": []
+  },
+  {
+    "imdbId": "MV4",
+    "title": "Strange World",
+    "releaseDate": "2022-11-23",
+    "trailerLink": "https://www.youtube.com/watch?v=bKh2G73gCCs",
+    "genres": ["Fantasy", "Drama", "Family", "Actions"],
+    "poster": "https://image.tmdb.org/t/p/w500/kgJ8bX3zDQDM2Idkleis28XSVnu.jpg",
+    "reviews": [],
+    "actors": [],
+    "qualifications": []
+  },
+  {
+    "imdbId": "MV5",
+    "title": "Troll",
+    "releaseDate": "2022-12-01",
+    "trailerLink": "https://www.youtube.com/watch?v=AiohkY_XQYQ",
+    "genres": ["Fantasy", "Drama", "Family", "Actions"],
+    "poster": "https://image.tmdb.org/t/p/w500/9z4jRr43JdtU66P0iy8h18OyLql.jpg",
+    "reviews": [],
+    "actors": [],
+    "qualifications": []
+  }
+]
